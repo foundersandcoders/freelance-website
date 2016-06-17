@@ -1,3 +1,11 @@
+----
+
+#Project has been moved to here:
+
+https://github.com/fac-freelancers/website
+
+----
+
 # freelance website
 
 A website for the founders and coders freelance agency
